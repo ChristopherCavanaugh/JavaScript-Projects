@@ -12,3 +12,8 @@ var blues = blues.fontcolor("blue");
 document.write(blues);
 
 document.write(3+3); //adding 3 plus 3
+
+var D = "I like ";
+var E = "dogs!";
+var W = D + E;
+document.write(W);
