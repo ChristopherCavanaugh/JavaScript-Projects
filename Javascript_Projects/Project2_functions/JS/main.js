@@ -1,6 +1,6 @@
 function My_First_Function() {
     var str = "This is my pink text";
-    var resut = str.fontcolor("pink");
+    var result = str.fontcolor("pink");
     document.getElementById("pink_text").innerHTML = result;
 }
 
